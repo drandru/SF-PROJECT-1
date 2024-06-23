@@ -14,13 +14,13 @@
 ![Распределение соискателей по возрасту](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/ages.png)
 
 Распределение опыта общей выборки
-![Распределение опыта общей выборки]([http://url/to/img.png](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/experience.png))
+![Распределение опыта общей выборки](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/experience.png)
 
 Распределение заработной платы в общей выборке (корр)
-![Распределение заработной платы в общей выборке (корр)]([http://url/to/img.png](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/salary.png))
+![Распределение заработной платы в общей выборке (корр)](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/salary.png)
 
 Зависимость медианной желаемой заработной платы ("ЗП (руб)") от уровня образования
-![Зависимость медианной желаемой заработной платы]([http://url/to/img.png](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/salary_education.png))
+![Зависимость медианной желаемой заработной платы](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/salary_education.png)
 
 Зависимость медианной желаемой заработной платы ("ЗП (руб)") от города
 ![Зависимость медианной желаемой заработной платы](https://github.com/drandru/SF-PROJECT-1/blob/main/visual/salary_city.png)
